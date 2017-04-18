@@ -259,3 +259,6 @@ Learn more about MVC and its relatives:
 * [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93View%E2%80%93Controller)
 * [HMVC](https://en.wikipedia.org/wiki/Hierarchical_model%E2%80%93view%E2%80%93controller)
 * [MVVM](https://en.wikipedia.org/wiki/Model_View_ViewModel)
+
+If you like a deeper text about Design Patterns visit the github repository [domnikl/DesignPatternsPHP
+](https://github.com/domnikl/DesignPatternsPHP)
